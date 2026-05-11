@@ -76,6 +76,4 @@ A personal game tracking platform inspired by modern gaming interfaces and compa
 * LinkedIn: linkedin.com/in/rafoccb
 * GitHub: github.com/rafoccb
 
----
 
-> “Clean code, immersive interfaces and a touch of chaos.”
