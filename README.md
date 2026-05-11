@@ -1,4 +1,4 @@
-# Rafael — Front-End Developer
+# Front-End Developer
 
 > Crafting modern web experiences through code, UX and a touch of game-inspired design.
 
