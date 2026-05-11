@@ -60,10 +60,6 @@ A personal game tracking platform inspired by modern gaming interfaces and compa
 
 `Next.js` • `TypeScript` • `Tailwind CSS` • `Supabase` • `PostgreSQL` • `RAWG API`
 
-### Preview
-
-> Add screenshots or GIFs here
-
 ---
 
 ## Current Goals
