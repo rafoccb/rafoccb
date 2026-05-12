@@ -2,9 +2,7 @@
 
 # 👋 Hey, I'm Rafael!
 
-### Front-End Developer | Game-Inspired Design Enthusiast
-
-*Crafting modern web experiences through code, UX and a touch of game-inspired design*
+### Front-End Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafoccb)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafoccb)
@@ -25,7 +23,7 @@ const rafael = {
 };
 ```
 
-I'm a **Front-End Developer** with a background in **Digital Games**, which gives me a unique perspective on user experience, interaction design, and feedback systems. I build **responsive, modern applications** that don't just work — they feel good to use.
+I'm a **Front-End Developer** with a background in **Digital Games**, which gives me a unique perspective on user experience, interaction design, and feedback systems. I build **responsive, modern applications**.
 
 Currently leveling up my **Full-Stack skills** and deploying production-ready projects that combine solid architecture with engaging interfaces.
 
@@ -66,7 +64,7 @@ Currently leveling up my **Full-Stack skills** and deploying production-ready pr
 
 </div>
 
-**Game Hub** is more than just a game tracker — it's a companion app that brings the polish and feel of modern gaming UIs to the web.
+**Game Hub**
 
 #### ✨ Key Features
 - 🎮 **RAWG API Integration** — Access a vast game database
