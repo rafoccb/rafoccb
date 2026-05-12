@@ -2,10 +2,9 @@
 
 # 👋 Hey, I'm Rafael!
 
-### Front-End Developer 
+### Front-End Developer | PwD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafoccb)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafoccb)
 
 </div>
 
@@ -19,7 +18,6 @@ const rafael = {
     background: "Digital Games",
     focus: ["Modern Web Apps", "UX Design", "Gamification"],
     currentMission: "Evolving into Full-Stack while building real-world projects",
-    specialty: "Bridging game design thinking with web development"
 };
 ```
 
