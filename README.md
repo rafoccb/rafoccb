@@ -95,18 +95,6 @@ Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL • RAWG API
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafoccb&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafoccb&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 💬 Let's Connect!
 
 I'm always open to interesting conversations about **web development**, **game design**, **UX**, or **new project ideas**.
