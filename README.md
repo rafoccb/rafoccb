@@ -121,9 +121,6 @@ I'm always open to interesting conversations about **web development**, **game d
 ---
 
 <div align="center">
-
-*"Code is poetry, and every commit is a verse."*
-
-⭐️ From [rafoccb](https://github.com/rafoccb)
+[rafoccb](https://github.com/rafoccb)
 
 </div>
