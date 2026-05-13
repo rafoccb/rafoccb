@@ -58,7 +58,7 @@ Currently leveling up my **Full-Stack skills** and deploying production-ready pr
 ### **Game Hub**
 *A personal game tracking platform inspired by modern gaming interfaces*
 
-[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://gmeprojctfp.vercel.app/)
 
 </div>
 
